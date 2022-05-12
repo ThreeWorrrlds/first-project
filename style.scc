@@ -1,3 +1,6 @@
 .fish{
     color: red;
 }
+.shark{
+	color: pink;
+}
